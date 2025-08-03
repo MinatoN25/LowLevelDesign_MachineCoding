@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module LowLevelDesign_MachineCoding {
-}
